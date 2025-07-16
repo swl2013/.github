@@ -1,4 +1,17 @@
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pnqpz5oefgyb6uvzzwzirefwim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pnqpz5oefgyb6uvzzwzirefwim&redirect=true) <br>
-![swl2013's GitHub stats](https://github-readme-stats.vercel.app/api?username=swl2013&show_icons=true&theme=tokyonight) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swl2013&theme=tokyonight)
+<table>
+  <tr>
+    <td rowspan="2">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pnqpz5oefgyb6uvzzwzirefwim&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pnqpz5oefgyb6uvzzwzirefwim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=swl2013&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swl2013&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
