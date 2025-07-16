@@ -12,7 +12,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swl2013&theme=tokyonight" alt="Top Langs" />
-      <img src="https://skillicons.dev/icons?i=nodejs,js,bsd,linux,java,gradle,c,cpp&perline=3" alt="Skills"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,js,html,bash,java,gradle,c,cpp,css&perline=3" alt="Skills"/>
     </td>
   </tr>
 </table>
