@@ -16,3 +16,7 @@
     </td>
   </tr>
 </table>
+
+Hi, I'm Shane. I like programming and learning things. \
+Currently in progress of learning C/C++, Frontend JS and NodeJS. \
+My discord is `swl2013`.
